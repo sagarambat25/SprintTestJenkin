@@ -8,5 +8,6 @@ agent any
     sh 'maven clean install'
 }
     }
-
+  }
+}
 }
